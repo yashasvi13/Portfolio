@@ -1,0 +1,147 @@
+*{
+  margin:0;
+ padding:0;
+}
+
+#intro {margin-top:-20px;padding-top:50px;height:600px;color: #fff; background-color: #1E88E5;
+background-image:url("http://www.redtankstudio.com/website/images/slider1.jpg");
+background-size:100% 100%;
+}
+  #aboutme {padding-top:50px;height:600px;color: #fff; background-color: #673ab7;
+background-image:url("http://www.planwallpaper.com/static/images/Wallpapers-for-Background-HD-Wallpaper-1080x607.jpg"); 
+  opacity:0.80;
+background-size:100% 100%;}
+  #project {padding-top:50px;height:600px;color: #fff; background-color: #ff9800;
+background-image:url("https://alexiskold.files.wordpress.com/2016/07/se.jpg?w%5Cu003d1200");
+background-size:100% 100%;
+opacity:0.8;}
+  #contact {padding-top:50px;height:600px;color: #fff; background-color: #00bcd4;
+background-image:url("http://www.sravantechnologies.com/images/ecommerce-development-company.jpg");
+    opacity:0.9;
+background-size:100% 100%;
+}
+.img-circle{
+  width:380px;
+  float:right;
+  margin-top:-50px;
+  margin-right:50px;
+}
+.caption{
+  padding-left:8px;
+  padding-right:12px;
+  font-size:30px;
+  padding-top:15px;
+}
+.navbar-inverse{
+  display:inline;
+ float:right;
+  
+}
+
+.styled-list{
+  display:inline-block;
+  listing-style-type:none;
+  width:260px;
+  
+}
+
+body{
+  margin:0;
+  padding:0;
+}
+.fa {
+    padding: 60px;
+    font-size: 50px;
+    width: 60px;
+  padding-right:60px;
+  padding-left:60px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 0.5;
+}
+.styled-list:hover{
+  opacity:0.5;
+  border-radius:10px;
+  overflow:hidden;
+  
+}
+.fa-facebook {
+ color: #3B5998;  
+}
+.fa-github {
+ color: black;  
+}
+.fa-google {
+  color: #dd4b39;  
+}
+.fa-free-code-camp{
+  color:green;
+}
+.fa-envelope{
+  color:#dd4b39;
+}
+h1{
+  font-family:serif;
+  padding:2px;
+  font-size:30px;
+}
+h3{
+  font-family:serif;
+  padding:6px;
+}
+ul li a{
+  font-size:25px;
+  color:#999;
+  padding:-10px;
+}
+.section2{
+  font-size:20px;
+  padding-bottom:10px;
+  margin:0;
+  list-style-type:circle;
+}
+.sec2{
+  list-style-type:none;
+  font-size:20px;
+}
+.text-center{
+  font-size:40px;
+  padding-bottom:10px;
+  font-family:serif;
+  color:black;
+}
+.thumbnail:hover {
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+}
+ 
+  footer {
+  padding-top: 5px;
+  padding-bottom:5px;
+  color:#666;
+  background-color: #b2b2b2;
+    font-size:20px;
+}
+.thumbnail1{
+  width:250px;
+  height:150px;
+}
+
+.col-lg-4{
+ margin-bottom:10px;
+  height:250px;}
+  .row{
+    width:975px;
+    margin-left:120px;
+    
+  }
+
+.img1{
+  height:80px;
+}
+
+  
+ 
+  
